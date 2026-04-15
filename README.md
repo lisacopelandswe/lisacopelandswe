@@ -1,12 +1,11 @@
 ## 👋 Hi, I’m Lisa
 
 ### 👩‍💻 Senior Software/Product Engineer
+#### Building scalable web applications, modern SaaS interfaces, and thoughtful user experiences. I work across React, Next.js, TypeScript, design systems, and product-focused frontend architecture.
 #### 🛠️ React, Next.js, TypeScript, Figma
 #### 🦄 Portfolio: [lisacopeland.io](https://lisacopeland.io/)
 #### 👤 LinkedIn: [Let's Connect](https://www.linkedin.com/in/lisa-copeland-598404153/)
 #### 📧 Email: [hello@lisacopeland.io](mailto:hello@lisacopeland.io) 
-
-#### 🚀 Building scalable web applications, modern SaaS interfaces, and thoughtful user experiences. I work across React, Next.js, TypeScript, design systems, and product-focused frontend architecture.
 
 ### ✨ Featured Work
 🎯 [TrakFlow](https://github.com/trakflow-app/trakflow-nextjs), an early-stage SaaS product for construction management
